@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="github-widget" data-username="Artemis-R"></div>
+<div class="github-widget" data-username="Twister"></div>
 <script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
